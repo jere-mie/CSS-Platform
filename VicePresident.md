@@ -11,7 +11,7 @@
   * Flyers
   * Cards
   * Mugs
-* Design of 
+* Design of CSS display case
 
 
 ## My Goals
@@ -21,3 +21,7 @@
 * m
 * m
 * m
+
+### Is there something on this list that you'd like to see?
+##### Come to my office hours, every Wednesday from 3-4PM in Lambton Tower 2100
+##### You can also shoot me an email, jeremie@bornais.ca
