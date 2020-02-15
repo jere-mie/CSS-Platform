@@ -22,6 +22,9 @@
 * More **coding competitions** hosted by CSS
 * **Data structures and algorithms seminars**
 * Bring back **coding problem of the week**
+* Get administration to **fix the printer in the CS Lounge**
+* Get administration to **clean or replace the keyboards in the CS Lounge**
+ 
 
 
 ## Is there something on this list that you'd like to see?
