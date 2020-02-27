@@ -17,8 +17,8 @@
 
 ## My Goals
 #### My plan to grow and make CSS better for you
-* Get **increased funding** (this means more funds for events and student resources)
 * **Increase size cap for events**, so more people can attend (and you have more than 2 minutes to sign up before all spots are taken)
+* **Increased number of events**, and more opportunity for you to decide which events we host 
 * Continued and increased support with **UWinRobotics**
 * Continue to organize **WinHacks**, and make it better each year
 * More **coding competitions** hosted by CSS
