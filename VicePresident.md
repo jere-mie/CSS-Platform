@@ -6,20 +6,26 @@
 #### What I've done in my time on CSS
 * Lead organiser of **Google HashCode programming competition** (63 registrants)
 * Lead organiser of **WinHacks**
+  * Web design
+  * Application creation
+  * Promotion
 * CSS **Website Contributor**
-* Admin, web designer, and logo creator for **UWinRobotics**
+* Member of **UWinRobotics**
+  * Web developer
+  * GitHub Organisation Founder
+  * Logo designer
 * Design and production of **promotional materials** for CSS, including:
   * Flyers
   * Cards
   * Mugs
-* Design of CSS display case
+  * Display Case
 
 
 ## My Goals
 #### My plan to grow and make CSS better for you
 * **Increase size cap for events**, so more people can attend (and you have more than 2 minutes to sign up before all spots are taken)
 * **Increased number of events**, and more opportunity for you to decide which events we host 
-* Creation of a **student success fund**, (money to fund events and initiatives related to helping CS students be successful)
+* Creation of a **student success fund**, (money to fund events, initiatives, and resources related to helping CS students be successful)
 * Continued and increased support of **UWinRobotics**
 * Continue to organize **WinHacks**, and make it better each year
 * More **coding competitions** hosted by CSS
