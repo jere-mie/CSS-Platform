@@ -22,7 +22,8 @@
 * Continued and increased support with **UWinRobotics**
 * Continue to organize **WinHacks**, and make it better each year
 * More **coding competitions** hosted by CSS
-* **Data structures and algorithms seminars**
+* **Data structures and algorithms seminars** for cracking the coding interview
+* **Developer seminars** aimed at teaching younger/less-experienced students new skills 
 * Bring back **coding problem of the week**
 * Get administration to **fix the printer in the CS Lounge**
 * Get administration to **clean or replace the keyboards in the CS Lounge**
