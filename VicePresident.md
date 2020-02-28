@@ -38,7 +38,6 @@
 
 
 ## Is there something on this list that you'd like to see?
-##### Come to my office hours, every Wednesday from 3-4PM in Lambton Tower 2100
 ##### You can also shoot me an email, jeremie@bornais.ca
 
 ## Still don't want to vote for me, or have your eyes on another candidate?
